@@ -1,0 +1,5 @@
+git status 
+git init
+git add hello status
+git commit 
+git checkout master
